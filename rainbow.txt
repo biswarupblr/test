@@ -1,8 +1,9 @@
-Branchfrom master
+branch master fantasy,branchfrommaster
 ultraviolet
+violet
 yellow 
 blue 
 red
-violet
 orange 
 green
+indigo
